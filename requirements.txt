@@ -1,0 +1,7 @@
+##Requirements pip installs
+
+pandas
+matplotlib
+seaborn
+sklearn
+numpy
